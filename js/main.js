@@ -75,20 +75,20 @@ function rgb2hex(rgb) {
 $(function() {
   var bookmark = {
     data: [{
-      name: '小刀网',
-      link: 'https://www.x6d.com/',
+      name: '我的网盘',
+      link: 'https://www.dakooo.xyz/',
       icon: 'img/log.png',
     }, {
-      name: '优惠券',
-      link: 'http://www.qsjsc.com/',
+      name: '祖安语录',
+      link: 'http://nmsl.shadiao.app/',
       icon: 'img/coolapk.png',
     }, {
       name: 'Via插件',
       link: 'http://via-app.cn',
       icon: 'img/via.png',
     }, {
-      name: '今日热榜',
-      link: 'https://tophub.today/',
+      name: 'GitHub',
+      link: 'https://www.github.com/',
       icon: 'img/headline.png',
     }, {
       name: '知乎',
@@ -99,8 +99,8 @@ $(function() {
       link: 'https://www.xda-developers.com/',
       icon: 'img/xda.png',
     }, {
-      name: '小米商城',
-      link: 'https://www.mi.com/',
+      name: '刀网',
+      link: 'https://www.x6d.com/',
       icon: 'img/mi.png',
     }, {
       name: 'unsplash',
